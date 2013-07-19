@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+      <title>jQuery HashTags Demo</title>
+        
+      <link href="css/jquery.hashtags.css" media="all" rel="stylesheet" type="text/css" />
+         
+      <script src="js/jquery-1.10.2.min.js" type="text/javascript"></script>
+      <script src="js/jquery.hashtags.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div class="tagInput">
+      <div class="highlighter" style="white-space: pre-wrap;color:transparent;overflow: hidden;position: absolute;padding-left: 7px;padding-top:5px;">
+      </div>
+      <div class="typehead">
+        <textarea class="desc formdata" name="desc" style="background-color: transparent; position: relative; direction: ltr; overflow: hidden; word-wrap: break-word; resize: horizontal; height: 48px; background-position: initial initial; background-repeat: initial initial;" data-hasqtip="0" aria-describedby="qtip-0">
+          Beschreibung eingeben...
+        </textarea>
+      </div>
+    </div>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $("textarea").hashtags();
+      });
+    </script>
+  </body>
+</html>
+        
