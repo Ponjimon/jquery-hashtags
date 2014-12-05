@@ -1,5 +1,5 @@
 /*!
-  jQuery #hashtags v0.1
+  jQuery #hashtags v0.2
 	(c) 2013 Simon Nussbaumer - admin@thurnax.com
 	updated: 2014-05-12
 	license: GNU LESSER GENERAL PUBLIC LICENSE
