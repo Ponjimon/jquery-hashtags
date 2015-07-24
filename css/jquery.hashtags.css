@@ -3,7 +3,7 @@
 	color:transparent;
 	overflow: hidden; 
 	position: absolute;
-	padding-left:10px;
+	padding-left:7px;
 	padding-top:5px; 
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size:14px;
@@ -34,5 +34,6 @@
 	box-shadow: 0 0 0 1px #a3bcea;
 	font-size:14px;
 	white-space: pre-wrap;
+	word-break: break-word;
 	line-height:20px;
 }
