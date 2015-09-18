@@ -12,7 +12,7 @@ Include the following files in your HTML and you are good to go.
 
 ```html
  <link href="css/jquery.hashtags.css" rel="stylesheet">
- <script src="js/jquery-1.10.2.min.js" type="text/javascript"></script>
+ <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
  <script src="js/jquery.autosize.js" type="text/javascript"></script>
  <script src="js/jquery.hashtags.js" type="text/javascript"></script>`
 ```
