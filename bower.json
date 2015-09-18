@@ -1,0 +1,15 @@
+{
+  "name": "jquery-hashtag-highlighter",
+  "version": "0.0.1",
+  "main": "js/jquery.hashtags.js",
+  "dependencies": {
+    "jquery": ">= 2.1.4"
+  },
+  "authors": [
+    "lookapanda",
+  ],
+  "license": "MIT & GNU LESSER GENERAL PUBLIC LICENSE",
+  "ignore": [
+    "**/.*"
+  ]
+}
