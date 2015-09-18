@@ -8,8 +8,7 @@ This jQuery plugin allows it to automatically highlight hashtags in textareas li
 http://lookapanda.github.io/jquery-hashtags/
 
 ## Integrating with your Application
-
-Simply include the following files in your HTML and you are good to go.
+Include the following files in your HTML and you are good to go.
 
 ```html
  <link href="css/jquery.hashtags.css" rel="stylesheet">
