@@ -1,7 +1,7 @@
 /*!
   jQuery #hashtags v0.5.0
-	(c) 2013 Simon Nussbaumer - admin@thurnax.com
-	updated: 2015-24-07
+	(c) 2013 Simon Nussbaumer
+	updated: 2016-25-10
 	license: GNU LESSER GENERAL PUBLIC LICENSE
 */
 (function($) {

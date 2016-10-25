@@ -24,4 +24,7 @@ Include the following files in your HTML and you are good to go.
 ```
 
 ## Bower
-For installing using Bower you can use `jquery-hashtag-highlighter`
+For installing using Bower you can use `bower install jquery-hashtag-highlighter`
+
+## NPM
+This plugin is also available in npm with  `npm install jquery-hashtags`

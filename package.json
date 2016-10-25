@@ -1,0 +1,23 @@
+{
+  "name": "jquery-hashtags",
+  "version": "0.5.0",
+  "description": "This jQuery plugin allows it to automatically highlight hashtags in textareas like those on facebook.",
+  "main": "js/jquery.hashtags.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lookapanda/jquery-hashtags.git"
+  },
+  "author": "lookapanda",
+  "license": "GLGPLv2.1",
+  "bugs": {
+    "url": "https://github.com/lookapanda/jquery-hashtags/issues"
+  },
+  "homepage": "https://github.com/lookapanda/jquery-hashtags#readme",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "autosize": "^2.0.0"
+  }
+}
