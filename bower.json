@@ -1,7 +1,10 @@
 {
   "name": "jquery-hashtag-highlighter",
   "version": "0.0.1",
-  "main": "js/jquery.hashtags.js",
+  "main": [
+    "js/jquery.hashtags.js",
+    "css/jquery.hashtags.css"
+  ],
   "dependencies": {
     "jquery": ">= 2.1.4"
   },
