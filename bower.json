@@ -9,7 +9,7 @@
     "jquery": ">= 2.1.4"
   },
   "authors": [
-    "lookapanda",
+    "lookapanda"
   ],
   "license": "MIT & GNU LESSER GENERAL PUBLIC LICENSE",
   "ignore": [
