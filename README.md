@@ -1,3 +1,6 @@
+# This project is no longer maintained. #
+There are other more sophisticated solutions out there by now!
+
 jquery-hashtags
 ===============
 
